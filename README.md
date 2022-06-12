@@ -4,14 +4,14 @@ IEEE TCSVT 2022: Cross-Collaborative Fusion-Encoder Network for Robust RGB-Therm
 
 
 ## Requirements
-•	pytorch 1.3.0+   
-•	torchvision   
+•	Pytorch 1.3.0+   
+•	Torchvision   
 •	PIL   
 •	Numpy 
 
 
 ## Citation
-Please cite our paper if you use this repository in your reseach.
+Please consider citing our work if you use this repository in your reseach.
 ```
 @ARTICLE{CCFENet_TCSVT22,  
 author={Liao, Guibiao and Gao, Wei and Li, Ge and Wang, Junle and Sam Kwong},  
