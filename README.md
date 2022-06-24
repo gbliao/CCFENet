@@ -1,6 +1,6 @@
 # CCFENet-PyTorch (TCSVT-2022)
 
-IEEE TCSVT 2022: Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection
+IEEE TCSVT 2022: Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection. [PDF](https://ieeexplore.ieee.org/document/9801871)
 
 
 ## Requirements
