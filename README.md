@@ -4,22 +4,22 @@ IEEE TCSVT 2022: Cross-Collaborative Fusion-Encoder Network for Robust RGB-Therm
 
 
 ## Requirements
-•	Pytorch 1.3.0+   
+* Pytorch 1.3.0+   
 
-•	Torchvision   
+* Torchvision   
 
-•	PIL   
+* PIL   
 
-•	Numpy 
+* Numpy 
 
 ## Results
-•	RGB-Thermal saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1v6CwfPIdWzQWiCEoq5gceg) [code: gprv]  
+* RGB-Thermal saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1v6CwfPIdWzQWiCEoq5gceg) [code: gprv]  
 
-•	RGB-Depth saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1DEjxz9C1muJaJsIcG5Kzjg) [code: qoc7]  
+* RGB-Depth saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1DEjxz9C1muJaJsIcG5Kzjg) [code: qoc7]  
 
-•	The results of challenging scenarios mentioned in the paper can be download from [here](https://pan.baidu.com/s/1EFQygrVPARYEQVjk2OhirQ) [code: fteh]  
+* The results of challenging scenarios mentioned in the paper can be download from [here](https://pan.baidu.com/s/1EFQygrVPARYEQVjk2OhirQ) [code: fteh]  
 
-•	The saliency results can be evaluated by using the tool in [Matlab](http://dpfan.net/d3netbenchmark/)  
+* The saliency results can be evaluated by using the tool in [Matlab](http://dpfan.net/d3netbenchmark/)  
 
 
 ## Citation
@@ -40,4 +40,6 @@ pages={1-1},
 ## Acknowlogdement
 This repository is built under the help of the following project for academic use only:
 
-•	[JL-DCF](https://github.com/jiangyao-scu/JL-DCF-pytorch) 
+* [PyTorch](https://github.com/pytorch/pytorch)
+
+* [JL-DCF](https://github.com/jiangyao-scu/JL-DCF-pytorch) 
