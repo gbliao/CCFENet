@@ -12,6 +12,7 @@ IEEE TCSVT 2022: Cross-Collaborative Fusion-Encoder Network for Robust RGB-Therm
 
 * Numpy 
 
+
 ## Results
 * RGB-Thermal saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1v6CwfPIdWzQWiCEoq5gceg) [code: gprv]  
 
@@ -20,6 +21,12 @@ IEEE TCSVT 2022: Cross-Collaborative Fusion-Encoder Network for Robust RGB-Therm
 * The results of challenging scenarios mentioned in the paper can be download from [here](https://pan.baidu.com/s/1EFQygrVPARYEQVjk2OhirQ) [code: fteh]  
 
 * The saliency results can be evaluated by using the tool in [Matlab](http://dpfan.net/d3netbenchmark/)  
+
+
+## Testing
+* Modify your `test_root` in test.py
+
+* Test the CCFENet: `python test.py`
 
 
 ## Citation
