@@ -24,7 +24,7 @@ IEEE TCSVT 2022: Cross-Collaborative Fusion-Encoder Network for Robust RGB-Therm
 
 
 ## Testing
-* Download the trained model weight from [here](https://pan.baidu.com/s/1ogxwapJK8bvY4BFsVm0VFQ)[code:ij0a]
+* Download the trained model weight from [here](https://pan.baidu.com/s/1ogxwapJK8bvY4BFsVm0VFQ) [code: ij0a]
 
 * Modify your `test_root` in test.py
 
