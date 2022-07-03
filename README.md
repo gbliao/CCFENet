@@ -47,7 +47,7 @@ pages={1-1},
 
 
 ## Acknowlogdement
-This repository is built under the help of the following project for academic use only:
+This repository is built under the help of the following projects for academic use only:
 
 * [PyTorch](https://github.com/pytorch/pytorch)
 
