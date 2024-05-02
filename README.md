@@ -14,11 +14,11 @@ IEEE TCSVT 2022: [Cross-Collaborative Fusion-Encoder Network for Robust RGB-Ther
 
 
 ## Results
-* RGB-Thermal saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1v6CwfPIdWzQWiCEoq5gceg) [code: gprv]  
+* RGB-Thermal saliency maps mentioned in the paper can be downloaded from [here](https://pan.baidu.com/s/1v6CwfPIdWzQWiCEoq5gceg) [code: gprv]  
 
-* RGB-Depth saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1DEjxz9C1muJaJsIcG5Kzjg) [code: qoc7]  
+* RGB-Depth saliency maps mentioned in the paper can be downloaded from [here](https://pan.baidu.com/s/1DEjxz9C1muJaJsIcG5Kzjg) [code: qoc7]  
 
-* The results of challenging scenarios mentioned in the paper can be download from [here](https://pan.baidu.com/s/1EFQygrVPARYEQVjk2OhirQ) [code: fteh]  
+* The results of challenging scenarios mentioned in the paper can be downloaded from [here](https://pan.baidu.com/s/1EFQygrVPARYEQVjk2OhirQ) [code: fteh]  
 
 * The saliency results can be evaluated by using the tool in [Matlab](http://dpfan.net/d3netbenchmark/)  
 
@@ -32,7 +32,7 @@ IEEE TCSVT 2022: [Cross-Collaborative Fusion-Encoder Network for Robust RGB-Ther
 
 
 ## Citation
-Please consider citing our work if you use this repository in your reseach.
+Please consider citing our work if you use this repository in your research.
 ```
 @ARTICLE{CCFENet_TCSVT22,
   author={Liao, Guibiao and Gao, Wei and Li, Ge and Wang, Junle and Kwong, Sam},
@@ -47,7 +47,7 @@ Please consider citing our work if you use this repository in your reseach.
 
 
 ## Acknowlogdement
-This repository is built under the help of the following projects for academic use only:
+This repository is built with the help of the following projects for academic use only:
 
 * [PyTorch](https://github.com/pytorch/pytorch)
 
