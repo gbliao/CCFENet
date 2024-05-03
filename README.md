@@ -13,6 +13,15 @@ IEEE TCSVT 2022: [Cross-Collaborative Fusion-Encoder Network for Robust RGB-Ther
 * Numpy 
 
 
+## VT1000-D Dataset
+
+The VT1000-D Dataset used in the paper can be downloaded from [here](https://pan.baidu.com/s/1T6QZ3mqANdtJ0R3XCjCbSQ) [code: lt62]
+
+* Containing 5 different degrees of distortion.
+
+* Containing 12 types of algorithmically generated degradations from blur (defocus, motion, and Gaussian), noise (shot, Gaussian, and impulse), digital (brightness, contrast, and jpeg compression), and weather (snow, frost, and fog) categories.
+
+
 ## Results
 * RGB-Thermal saliency maps mentioned in the paper can be downloaded from [here](https://pan.baidu.com/s/1v6CwfPIdWzQWiCEoq5gceg) [code: gprv]  
 
